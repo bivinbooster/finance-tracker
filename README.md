@@ -2,6 +2,9 @@
 
 A full-stack finance tracking application built with TypeScript, React, Node.js, and MongoDB.
 
+## Project Overview:
+A "10x more complete" personal finance tracking application designed for secure and efficient management of income and expenses. This full-stack solution provides users with dedicated accounts, robust transaction and category management, and analytical features, delivered via a modern, responsive user interface.
+
 ## Features
 
 - 🔒 **User Authentication**
